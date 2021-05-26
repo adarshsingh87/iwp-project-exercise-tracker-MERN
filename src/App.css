@@ -1,0 +1,25 @@
+body {
+	background-image: url(./app.jpg);
+	background-size: cover;
+}
+
+.input-boxes {
+  background-color: transparent;
+  border: 1px solid black;
+  color: white;
+  backdrop-filter: blur(8px);
+}
+
+.input-boxes:active, .input-boxes:focus {
+  background-color: transparent;
+  color: white;
+}
+
+.form-container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.input-boxes-black {
+  color: black !important;
+}

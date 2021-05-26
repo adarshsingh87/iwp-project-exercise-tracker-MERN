@@ -1,0 +1,24 @@
+.exercise-help-container {
+  background-color: #fff;
+  min-height: 100vh;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.help-label {
+  background: transparent;
+  color: black;
+}
+
+.container-sm > h2 {
+  margin: 20px 0;
+}
+
+li {
+  margin: 15px 0;
+}
+
+.container-sm > img {
+  display: block;
+  margin: auto;
+}
