@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### TO RUN THE WEBSITE:-
+1. install npm <br />
+2. open cmd/powershell in the folder <br />
+3. run `npm install` <br />
+4. do the steps 2 and 3 in the backend folder <br />
+5. run `node server.js` in the backend folder <br />
+6. run `npm start` in the main folder <br /> 
+### `npm install`
+
+Install the required packages before running the the website
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
